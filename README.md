@@ -30,14 +30,6 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-    <a href="https://github-readme-stats.vercel.app" target="blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnmgrant&langs_count=10&card_width=500&locale=en&layout=default" alt="johnmgrant's most used languages" />
-    </a>
-</p>
-
-<br/>
-
-<p align="center">
     <a href="https://git.io/streak-stats">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=johnmgrant&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="johnmgrant's streak stats" />
     </a>
