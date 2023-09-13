@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <ul>
     <li>🔭 I’m currently working for @AccuWeather-Inc.</li>
-    <li>🌱 I’m currently learning PHP best practices, React, Gutenberg, Node and javascript best practices.</li>
+    <li>🌱 I’m currently learning PHP, React, C#, .Net and Javascript best practices.</li>
     <li>🤔 I’m looking for help with setting up project coding standards for large projects and a growing team.</li>
-    <li>💬 Ask me about **PHP, Java, C, React**</li>
+    <li>💬 Ask me about **PHP, C, React, Java or Webpack**</li>
     <li>😄 Pronouns: He, Him, His</li>
 </ul> 
 
