@@ -30,14 +30,6 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=johnmgrant&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="johnmgrant's streak stats" />
-    </a>
-</p>
-
-<br/>
-
-<p align="center">
     <a href="https://twitter.com/jgrant_develops" target="blank">
         <img src="https://img.shields.io/twitter/follow/jgrant_develops?style=social" alt="johnmgrant's twitter account" />
     </a>
