@@ -23,8 +23,8 @@ Here are some ideas to get you started:
     <li>🔭 I’m currently working for @AccuWeather-Inc.</li>
     <li>🌱 I’m currently working on projects based on Typescript, Vue.js, C#, PHP, React.js, JavaScript, and Python, to name a few.</li>
     <li>🤔 I’m seeking help rapidly setting up new, maintainable, easily managed, and scalable projects when necessary.</li>
-    <li>💬 Ask me about **WordPress, React.js, Vue.js and Vite**</li>
-    <li>😄 Pronouns: He, Him, His</li>
+    <li>💬 Ask me about **WordPress, Typescript, React.js, Vue.js, Expo, Vite**</li>
+    <li>😄 Pronouns: He, Him, His, They, Them</li>
 </ul> 
 
 <br/>
