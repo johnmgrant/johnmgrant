@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD033 MD041 -->
+
 <h1 align="center">Hello there! I'm John. 👋🏾</h1>
 
 <h3 align="center">I'm a passionate Software Engineer currently working with WordPress VIP technologies.</h3>
@@ -25,7 +27,7 @@ Here are some ideas to get you started:
     <li>🤔 I’m seeking help rapidly setting up new, maintainable, easily managed, and scalable projects when necessary.</li>
     <li>💬 Ask me about **WordPress, Typescript, React.js, Vue.js, Expo, Vite**</li>
     <li>😄 Pronouns: He, Him, His, They, Them</li>
-</ul> 
+</ul>
 
 <br/>
 
@@ -107,7 +109,7 @@ Here are some ideas to get you started:
   </a>
   <a href="https://yarnpkg.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
-  </a
+  </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
