@@ -53,9 +53,3 @@ Here are some ideas to get you started:
         <img src="https://komarev.com/ghpvc/?username=johnmgrant" alt="view counter" />
     </a>
 </p>
-
-<p align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=johnmgrant" alt="GitHub Streak Stats" />
-    </a>
-</p>
